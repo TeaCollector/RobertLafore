@@ -2,6 +2,7 @@ package Recursia6;
 
 public class Towers {
     static int disc = 3;
+    static int nulling = 0;
 
     public static void main(String[] args) {
         doTowers(disc, 'A', 'B', 'C');
